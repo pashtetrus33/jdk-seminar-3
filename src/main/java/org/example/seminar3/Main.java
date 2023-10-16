@@ -1,8 +1,8 @@
-package org.example;
+package org.example.seminar3;
 
-import org.example.task1.OwnCollection;
-import org.example.task2.Calculator;
-import org.example.task4.Pair;
+import org.example.seminar3.task1.OwnCollection;
+import org.example.seminar3.task1.task2.Calculator;
+import org.example.seminar3.task1.task4.Pair;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.seminar3.task1;
 
 import java.util.Arrays;
 import java.util.Iterator;

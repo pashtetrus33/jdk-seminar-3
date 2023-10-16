@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.seminar3.task1.task2;
 
 public class Calculator {
     public static <T extends Number> void addition(T a, T b) {

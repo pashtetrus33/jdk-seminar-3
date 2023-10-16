@@ -1,4 +1,4 @@
-package org.example.lection3;
+package org.example.lection3_generics;
 
 // Обобщения появились в Java 1.5
 //Generics обобщения работают только со ссылочными типами данных примитивы нельзя

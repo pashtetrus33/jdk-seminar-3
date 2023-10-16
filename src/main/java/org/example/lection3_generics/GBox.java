@@ -1,4 +1,4 @@
-package org.example.lection3;
+package org.example.lection3_generics;
 
 // extends RuntimeException исключение обобщенного типа создать нельзя.
 // интерфейсы обобщенного типа бывают

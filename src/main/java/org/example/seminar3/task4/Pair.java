@@ -1,4 +1,4 @@
-package org.example.task4;
+package org.example.seminar3.task1.task4;
 
 public class Pair<K, V> {
     private K key;

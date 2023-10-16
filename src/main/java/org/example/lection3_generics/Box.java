@@ -1,4 +1,4 @@
-package org.example.lection3;
+package org.example.lection3_generics;
 
 public class Box {
     private Object obj;
