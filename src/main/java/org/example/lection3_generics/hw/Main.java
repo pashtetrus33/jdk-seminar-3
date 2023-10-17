@@ -14,6 +14,22 @@ public class Main {
         changeArrElements(stringArray, 0, 2);
         System.out.println(Arrays.toString(stringArray));
 
+        Box<Orange> orangeBox = new Box<>();
+        Box<Apple> appleBox = new Box<>();
+
+        orangeBox.addFruit(new Orange());
+        orangeBox.addFruit(new Orange());
+        //orangeBox.addFruit(new Orange());
+
+        appleBox.addFruit(new Apple());
+        appleBox.addFruit(new Apple());
+        appleBox.addFruit(new Apple());
+
+        System.out.println("Orange box weight: " + orangeBox.getWeight());
+        System.out.println("Apple box weight: " + appleBox.getWeight());
+
+        System.out.println(orangeBox.compare(appleBox));
+
     }
 
     public static <T> void changeArrElements(T[] arr, int index1, int index2) {
