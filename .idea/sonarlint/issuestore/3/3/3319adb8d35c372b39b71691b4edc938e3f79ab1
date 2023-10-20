@@ -1,0 +1,21 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Daria" 3 times.(—ñ—·8ĞéÏÈ´1
+J
+java:S1604*"(Make this anonymous inner class a lambda(ô‚Ïàÿÿÿÿÿ8ÓéÏÈ´1
+J
+java:S1604="(Make this anonymous inner class a lambda(©¹Õüÿÿÿÿ8ÔéÏÈ´1
+l
+java:S36559"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‘ÅØ<8Ì²ÙÈ´1
+r
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(©¹Õüÿÿÿÿ8ÆŠÙÈ´1
+L	java:S106 "+Replace this use of System.out by a logger.(ıÛÍÙşÿÿÿÿ8üéÏÈ´1
+G	java:S106!"+Replace this use of System.out by a logger.(òçˆ8ıéÏÈ´1
+G	java:S106%"+Replace this use of System.out by a logger.(òçˆ8şéÏÈ´1
+G	java:S106("+Replace this use of System.out by a logger.(òçˆ8ÿéÏÈ´1
+G	java:S1061"+Replace this use of System.out by a logger.(òçˆ8ˆêÏÈ´1
+L	java:S1062"+Replace this use of System.out by a logger.(ÃÓùøüÿÿÿÿ8‰êÏÈ´1
+G	java:S1066"+Replace this use of System.out by a logger.(ƒ›¢¾8êÏÈ´1
+F	java:S1069"+Replace this use of System.out by a logger.(‘ÅØ<8êÏÈ´1
+L	java:S106="+Replace this use of System.out by a logger.(©¹Õüÿÿÿÿ8êÏÈ´1
+X	java:S125:"<This block of commented-out lines of code should be removed.(Â•ÚÑ8ÒÄÑÈ´1
